@@ -1,0 +1,18 @@
+Idli (1 Set) - Steamed rice cakes served with sambar and chutney - 50.00
+Dosa - Thin rice crepe served with sambar and chutney - 50.00
+Parata - Flaky flatbread - 50.00
+Uttappam - Thick rice pancake topped with vegetables, served with sambar and chutney - 90.00
+Onion Uttappam - Uttappam topped with onions, served with sambar and chutney - 130.00
+Egg Uttappam - Uttappam topped with eggs, served with sambar and chutney - 130.00
+Egg Roast - Spicy egg curry - 130.00
+Nehi Roast - Spicy chicken curry - 130.00
+Roast - Spicy meat curry - 90.00
+Mutta Parata - Parata stuffed with eggs - 150.00
+Veech Parata - Layered parata - 60.00
+Egg Veech Parata - Layered parata stuffed with eggs - 90.00
+Omelet - Fluffy egg omelet - 50.00
+Half Boil - Soft-boiled eggs - 40.00
+Kalki / Loose Boil - Soft-boiled eggs - 40.00
+Full Boil - Hard-boiled eggs - 40.00
+Mutta Porial - Egg scramble - 60.00
+Puri Set - Puffed deep-fried bread served with potato curry - 100.00
